@@ -145,7 +145,7 @@ Light:
   m_SpotAngle: 30
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
+    m_Type: 0
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
@@ -256,8 +256,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534669902}
-  m_LocalRotation: {x: -0.019757604, y: -0.071327426, z: 0.0014131335, w: -0.9972563}
-  m_LocalPosition: {x: -0.72925645, y: 0.2780664, z: -5.2909985}
+  m_LocalRotation: {x: -0.07051087, y: -0.38460276, z: 0.029480012, w: -0.91991293}
+  m_LocalPosition: {x: -2.4375796, y: 0.48638472, z: -2.685626}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -294,7 +294,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pointPrefab: {fileID: 8002835929055721466, guid: 221d5172c232f4f7186ae80f996e4d02,
     type: 3}
-  resolution: 45
+  resolution: 50
+  function: 7
 --- !u!4 &1598220172
 Transform:
   m_ObjectHideFlags: 0
